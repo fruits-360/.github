@@ -28,7 +28,7 @@ More papers using Fruits-360 dataset are [here ...](papers.md)
 
 Author: [Mihai Oltean](https://mihaioltean.github.io)
 
-MIT. You may do whatever you want with this dataset as long as you mention me as author.
+__MIT license__. *You may do whatever you want with this dataset as long as you mention the author.*
 
 All fruits, vegetables, etc are from my own garden or purchased from local stores.
 
