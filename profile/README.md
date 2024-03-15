@@ -1,5 +1,7 @@
 # Fruits-360 dataset
 
+![Fruits-360 dataset](fruits-360-dataset.jpg)
+
 ## Download
 
 - [Fruits-360 with original size images (currently contains 24 fruits)](https://github.com/fruits-360/fruits-360-original-size)
