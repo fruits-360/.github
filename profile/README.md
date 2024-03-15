@@ -14,7 +14,24 @@ Mihai Oltean, __Fruits-360 dataset__, 2017-.
 
 ## History
 
-...
+- __2016 (begining of)__. I met with a private company that needed a robot to handle the goods from their food stores. My solution was to use [Jenny 5 robot](https://jenny5.org) for this purpose. Even if *Jenny 5 robot* has three Logitech C910 cameras, we had no serious algorithm capable of recognizing foods. So, the first step was to build a dataset with many images of foods that could be fed into a neural network as training data ...
+
+- __2016 (at the end)__. I started collecting fruits (either from my own garden or purchased from local stores). I stuck them into a low-rpm motor and filmed them. Initially, the films were made inside my room, which has blue-painted walls, whose reflection is visible in many images from that time.
+
+- __2017 (begining of)__. A student of mine wrote an example of using TensorFlow for the Fruits-360 dataset.
+
+- __2017 (summer of)__. The student presented his work at a local symposium for students.
+
+- __2017 (end of)__. A more complete paper with the dataset and numerical experiments has been accepted and publised by *Acta Univ. Sapientiae*. The paper has been updated several times after publication to include results for newer dataset versions.
+
+- __2017 (end of)__. The dataset has been uploaded to Kaggle: [https://www.kaggle.com/datasets/moltean/fruits](https://www.kaggle.com/datasets/moltean/fruits).
+
+- __2021 (begining of)__. Original (captured) size images will be published from now on.
+
+- __2021 (begining of)__. The metadata (properties) of fruits will be included in the dataset.
+
+- __2024.02.17__. The dataset has been moved to a new location on GitHub: [https://gihub.com/fruits-360](https://gihub.com/fruits-360). The organization contains multiple repositories.
+
 
 ## Papers (using Fruits-360 dataset)
 
@@ -26,10 +43,19 @@ More papers using Fruits-360 dataset are [here ...](papers.md)
 
 ## License
 
-Author: [Mihai Oltean](https://mihaioltean.github.io)
+__MIT license__. 
 
-__MIT license__. *You may do whatever you want with this dataset as long as you mention the author.*
+*You may do whatever you want with this dataset as long as you mention the author.*
 
-All fruits, vegetables, etc are from my own garden or purchased from local stores.
+All fruits, vegetables, etc, are from:
 
-All movies have been recorder by myself. All pictures in this dataset are extracted by myself.
+- my own garden or 
+- purchased from local stores.
+
+I have recorded all the movies. I extracted all pictures in this dataset.
+
+## Author
+
+[Mihai Oltean](https://mihaioltean.github.io)
+
+email: mihai.oltean@gmail.com
