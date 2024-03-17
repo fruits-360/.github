@@ -60,6 +60,10 @@ All fruits, vegetables, etc, are from:
 - my own garden or
 - purchased, by me, from local stores.
 
-I have recorded all the movies. 
+I have recorded all the movies containing the fruits, vegetables, etc in the Fruits-360 dataset.
 
-I extracted all pictures in this dataset.
+I extracted (from movies) all pictures in the Fruits-360 dataset.
+
+I have NOT taken pictures from other sources.
+
+I have NOT generated artificial pictures of fruits, vegetables. 
