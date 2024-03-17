@@ -49,15 +49,17 @@ __MIT license__.
 
 *You may do whatever you want with this dataset as long as you mention the author.*
 
-All fruits, vegetables, etc, are from:
-
-- my own garden or 
-- purchased from local stores.
-
-I have recorded all the movies. I extracted all pictures in this dataset.
-
 ## Author
 
 [Mihai Oltean](https://mihaioltean.github.io)
 
 email: mihai.oltean@gmail.com
+
+All fruits, vegetables, etc, are from:
+
+- my own garden or
+- purchased, by me, from local stores.
+
+I have recorded all the movies. 
+
+I extracted all pictures in this dataset.
