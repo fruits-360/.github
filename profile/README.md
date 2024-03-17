@@ -66,4 +66,4 @@ I extracted (from movies) all pictures in the Fruits-360 dataset.
 
 I have NOT taken pictures from other sources.
 
-I have NOT generated artificial pictures of fruits, vegetables. 
+I have NOT generated artificial pictures of fruits, vegetables etc.
