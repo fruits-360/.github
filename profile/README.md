@@ -1,6 +1,6 @@
 # Fruits-360 dataset
 
-![Fruits-360 dataset](fruits-360-dataset.jpg)
+![Fruits-360 dataset](../fruits-360-dataset.jpg)
 
 ## Download
 
