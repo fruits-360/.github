@@ -57,12 +57,12 @@ email: mihai.oltean@gmail.com
 
 All fruits, vegetables, etc, are from:
 
-- my own garden or
+- my own garden (located in Cugir, Romania) or
 - purchased, by me, from local stores.
 
 I have recorded all the movies containing the fruits, vegetables, etc in the Fruits-360 dataset.
 
-I extracted (from movies) all pictures in the Fruits-360 dataset.
+I have extracted (from movies) all pictures in the Fruits-360 dataset.
 
 I have NOT taken pictures from other sources.
 
