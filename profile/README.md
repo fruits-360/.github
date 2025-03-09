@@ -49,12 +49,6 @@ Mihai Oltean, __Fruits-360 dataset__, 2017-.
 
 More papers using Fruits-360 dataset are [here ...](papers.md)
 
-## License
-
-__MIT license__. 
-
-*You may do whatever you want with this dataset as long as you mention the author.*
-
 ## Provenance
 
 All fruits, vegetables, nuts, seeds etc, are from:
@@ -69,3 +63,9 @@ I have extracted (from movies) all pictures in the Fruits-360 dataset.
 I have NOT taken pictures from other sources.
 
 I have NOT generated artificial pictures of fruits, vegetables etc.
+
+## License
+
+__MIT license__. 
+
+*You may do whatever you want with this dataset as long as you mention the author.*
