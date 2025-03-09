@@ -8,7 +8,9 @@
 
 - [Fruits-360 original-size](https://github.com/fruits-360/fruits-360-original-size) (Original size images. Currently contains 20676 pictures of 37 fruits, vegetables, nuts and seeds.)
 
-- [Fruits-360 meta](https://github.com/fruits-360/fruits-360-meta) (Attributes. Currently contains data of 26 fruits and vegetables)
+- [Fruits-360 meta](https://github.com/fruits-360/fruits-360-meta) (Attributes. Currently contains data of 26 fruits and vegetables.)
+
+- [Fruits-360 multi](https://github.com/fruits-360/fruits-360-multi) (Currently contains 103 images with multiple objects per image.)
 
 ## Author
 
