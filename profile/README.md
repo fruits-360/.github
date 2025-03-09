@@ -10,6 +10,12 @@
 
 - [Fruits-360 metadata](https://github.com/fruits-360/fruits-360-meta) (Attributes. Currently contains data of 26 fruits and vegetables)
 
+## Author
+
+[Mihai Oltean](https://mihaioltean.github.io)
+
+email: mihai.oltean@gmail.com
+
 ## How to cite
 
 Mihai Oltean, __Fruits-360 dataset__, 2017-.
@@ -49,13 +55,9 @@ __MIT license__.
 
 *You may do whatever you want with this dataset as long as you mention the author.*
 
-## Author
+## Provenance
 
-[Mihai Oltean](https://mihaioltean.github.io)
-
-email: mihai.oltean@gmail.com
-
-All fruits, vegetables, etc, are from:
+All fruits, vegetables, nuts, seeds etc, are from:
 
 - my own garden (located in Cugir, Romania) or
 - purchased, by me, from local stores.
