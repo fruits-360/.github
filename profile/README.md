@@ -4,13 +4,13 @@
 
 ## Download
 
-- [Fruits-360 100x100](https://github.com/fruits-360/fruits-360-100x100) (Images scaled to 100x100 pixels. Currently contains 105121 pictures of 158 fruits, vegetables, nuts and seeds.)
+- [Fruits-360 100x100](https://github.com/fruits-360/fruits-360-100x100) (Images scaled to 100x100 pixels. Currently contains 106671 pictures of 160 fruits, vegetables, nuts and seeds.)
 
-- [Fruits-360 original-size](https://github.com/fruits-360/fruits-360-original-size) (Original size images. Currently contains 23458 pictures of 41 fruits, vegetables, nuts and seeds.)
+- [Fruits-360 original-size](https://github.com/fruits-360/fruits-360-original-size) (Original size images. Currently contains 25008 pictures of 43 fruits, vegetables, nuts and seeds.)
 
 - [Fruits-360 meta](https://github.com/fruits-360/fruits-360-meta) (Attributes. Currently contains data of 26 fruits and vegetables.)
 
-- [Fruits-360 multi](https://github.com/fruits-360/fruits-360-multi) (Currently contains 117 images with multiple objects per image.)
+- [Fruits-360 multi](https://github.com/fruits-360/fruits-360-multi) (Currently contains 150 images with multiple objects per image.)
 
 ## Author
 
@@ -68,6 +68,18 @@ I have NOT generated artificial pictures of fruits, vegetables etc.
 
 ## License
 
-__MIT license__. 
+CC BY-SA 4.0
 
-*You may do whatever you want with this dataset as long as you mention the author.*
+Copyright (c) 2017-, [Mihai Oltean](https://mihaioltean.github.io)
+
+You are free to:
+
+*Share* — copy and redistribute the material in any medium or format for any purpose, even commercially.
+
+*Adapt* — remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+
+*Attribution* — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+*ShareAlike* — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
