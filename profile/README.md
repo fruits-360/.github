@@ -47,7 +47,7 @@ Mihai Oltean, __Fruits-360 dataset__, 2017-.
 
 - Mihai Oltean, [Fruits-360 dataset: new research directions](https://www.researchgate.net/publication/354535752_Fruits_360_dataset_new_research_directions), Technical report, 2021.
 
-- Horea Muresan, Mihai Oltean, [Fruit recognition from images using deep learning](https://www.researchgate.net/publication/321475443_Fruit_recognition_from_images_using_deep_learning), Acta Univ. Sapientiae, Informatica Vol. 10, Issue 1, pp. 26-42, 2018.
+- Horea Muresan, Mihai Oltean, [Fruit recognition from images using deep learning](https://www.researchgate.net/publication/321475443_Fruit_recognition_from_images_using_deep_learning), Acta Univ. Sapientiae, Informatica, Vol. 10, Issue 1, pp. 26-42, 2018.
 
 More papers using Fruits-360 dataset are [here ...](papers.md)
 
