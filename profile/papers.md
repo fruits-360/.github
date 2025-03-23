@@ -7,12 +7,13 @@ __Last update: 2025.03.23.0__
 
 Jump to year:
 
-[2017](#y2017)
+[2018](#y2018)
 [2021](#y2021)
 
-## 2017
+## 2018
 
 1. Horea Mureșan, Mihai Oltean, [Fruit recognition from images using deep learning](https://www.researchgate.net/publication/321475443_Fruit_recognition_from_images_using_deep_learning), Acta Univ. Sapientiae, Informatica, Vol. 10, Issue 1, pp. 26-42, 2018.
+
 
 ## 2021
 
