@@ -12,6 +12,8 @@
 
 - [Fruits-360 multi](https://github.com/fruits-360/fruits-360-multi) (Currently contains 150 images with multiple objects per image.)
 
+- [Fruits-360 papers](https://github.com/fruits-360/fruits-360-papers) (Papers using Fruits-360 dataset.)
+
 ## Author
 
 [Mihai Oltean](https://mihaioltean.github.io)
@@ -42,6 +44,7 @@ Mihai Oltean, __Fruits-360 dataset__, 2017-.
 
 - __2024.02.17__. The dataset has been moved to a new location on GitHub: [https://gihub.com/fruits-360](https://gihub.com/fruits-360). The organization contains multiple repositories.
 
+- __2025.03.23__. New repository with papers using Fruits-360 dataset:  [https://github.com/fruits-360/fruits-360-papers](https://github.com/fruits-360/fruits-360-papers)
 
 ## Papers (using Fruits-360 dataset)
 
@@ -49,7 +52,7 @@ Mihai Oltean, __Fruits-360 dataset__, 2017-.
 
 - Horea Muresan, Mihai Oltean, [Fruit recognition from images using deep learning](https://www.researchgate.net/publication/321475443_Fruit_recognition_from_images_using_deep_learning), Acta Univ. Sapientiae, Informatica, Vol. 10, Issue 1, pp. 26-42, 2018.
 
-More papers using Fruits-360 dataset are [here ...](papers.md)
+More papers using Fruits-360 dataset are [https://github.com/fruits-360/fruits-360-papers](https://github.com/fruits-360/fruits-360-papers)
 
 ## Provenance
 
@@ -64,7 +67,7 @@ I have extracted (from movies) all pictures in the Fruits-360 dataset.
 
 I have NOT taken pictures from other sources.
 
-I have NOT generated artificial pictures of fruits, vegetables etc.
+I have NOT generated artificial pictures of fruits, vegetables, nuts or seeds.
 
 ## License
 
