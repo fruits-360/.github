@@ -4,9 +4,9 @@
 
 ## Download
 
-- [Fruits-360 100x100](https://github.com/fruits-360/fruits-360-100x100) (Images scaled to 100x100 pixels. Currently contains 106671 pictures of 160 fruits, vegetables, nuts and seeds.)
+- [Fruits-360 100x100](https://github.com/fruits-360/fruits-360-100x100) (Images scaled to 100x100 pixels. Currently contains 115499 pictures of 170 fruits, vegetables, nuts and seeds.)
 
-- [Fruits-360 original-size](https://github.com/fruits-360/fruits-360-original-size) (Original size images. Currently contains 25008 pictures of 43 fruits, vegetables, nuts and seeds.)
+- [Fruits-360 original-size](https://github.com/fruits-360/fruits-360-original-size) (Original size images. Currently contains 33351 pictures of 52 fruits, vegetables, nuts and seeds.)
 
 - [Fruits-360 meta](https://github.com/fruits-360/fruits-360-meta) (Attributes. Currently contains data of 26 fruits and vegetables.)
 
