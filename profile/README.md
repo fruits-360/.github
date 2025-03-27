@@ -10,7 +10,7 @@
 
 - [Fruits-360 meta](https://github.com/fruits-360/fruits-360-meta) (Attributes. Currently contains data of 26 fruits and vegetables.)
 
-- [Fruits-360 multi](https://github.com/fruits-360/fruits-360-multi) (Currently contains 150 images with multiple objects per image.)
+- [Fruits-360 multi](https://github.com/fruits-360/fruits-360-multi) (Multiple objects in the same picture. Currently contains 150 images.)
 
 - [Fruits-360 papers](https://github.com/fruits-360/fruits-360-papers) (Papers using Fruits-360 dataset.)
 
