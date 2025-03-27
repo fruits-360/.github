@@ -28,7 +28,7 @@ Mihai Oltean, __Fruits-360 dataset__, 2017-.
 
 ## History
 
-- __2016 (begining of)__. I met with a private company that needed a robot to handle the goods from their food stores. My solution was to use [Jenny 5 robot](https://jenny5.org) for this purpose. Even if *Jenny 5 robot* has three Logitech C910 cameras, we had no serious algorithm capable of recognizing foods. So, the first step was to build a dataset with many images of foods that could be fed into a neural network as training data ...
+- __2016 (begining of)__. I met with a private company that needed a robot to handle the goods from their food stores. My solution was to use [Jenny 5 robot](https://jenny5-robot.github.io/) for this purpose. Even if *Jenny 5 robot* has three Logitech C910 cameras, we had no serious algorithm capable of recognizing foods. So, the first step was to build a dataset with many images of foods that could be fed into a neural network as training data ...
 
 - __2016 (at the end)__. I started collecting fruits (either from my own garden or purchased from local stores). I stuck them into a low-rpm motor and filmed them. Initially, the films were made inside my room, which has blue-painted walls, whose reflection is visible in many images from that time.
 
