@@ -6,9 +6,9 @@
 
 The dataset consists of multiple repositories:
 
-- [Fruits-360 100x100](https://github.com/fruits-360/fruits-360-100x100) (Images scaled to 100x100 pixels. Currently contains 126305 pictures of 186 fruits, vegetables, nuts and seeds.)
+- [Fruits-360 100x100](https://github.com/fruits-360/fruits-360-100x100) (Images scaled to 100x100 pixels. Currently contains 132739 pictures of 194 fruits, vegetables, nuts and seeds.)
 
-- [Fruits-360 original-size](https://github.com/fruits-360/fruits-360-original-size) (Original (captured) size images. Currently contains 45936 pictures of 70 fruits, vegetables, nuts and seeds.)
+- [Fruits-360 original-size](https://github.com/fruits-360/fruits-360-original-size) (Original (captured) size images. Currently contains 52370 pictures of 78 fruits, vegetables, nuts and seeds.)
 
 - [Fruits-360 meta](https://github.com/fruits-360/fruits-360-meta) (Attributes. Currently contains data of 26 fruits and vegetables.)
 
