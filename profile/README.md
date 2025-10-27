@@ -30,7 +30,7 @@ Mihai Oltean, __Fruits-360 dataset__, 2017-.
 
 ## History
 
-- __2016 (begining of)__. I met with a private company that needed a robot to handle the goods from their food stores. My solution was to use [Jenny 5 robot](https://jenny5-robot.github.io/) for this purpose. Even if *Jenny 5 robot* has three Logitech C910 cameras, we had no serious algorithm capable of recognizing foods. So, the first step was to build a dataset with many images of foods that could be fed into a neural network as training data ...
+- __2016 (begining of)__. I met with a private company that needed a robot to handle the goods from their food stores. My solution was to use [Jenny 5 robot](https://jenny5-robot.github.io/) for this purpose. Even if *Jenny 5 robot* has three Logitech C910 cameras, we had no serious algorithm capable of recognizing food. So, the first step was to build a dataset with many images of foods that could be fed into a neural network as training data ...
 
 - __2016 (at the end)__. I started collecting fruits (either from my own garden or purchased from local stores). I stuck them into a low-rpm motor and filmed them. Initially, the films were made inside my room, which has blue-painted walls, whose reflection is visible in many images from that time.
 
@@ -49,6 +49,8 @@ Mihai Oltean, __Fruits-360 dataset__, 2017-.
 - __2024.02.17__. The dataset has been moved to a new location on GitHub: [https://gihub.com/fruits-360](https://gihub.com/fruits-360). The organization contains multiple repositories.
 
 - __2025.03.23__. New repository with papers using Fruits-360 dataset:  [https://github.com/fruits-360/fruits-360-papers](https://github.com/fruits-360/fruits-360-papers)
+
+- __2025.04.01__. New dataset: Fruits-360, 3-body problem:  [https://github.com/fruits-360/fruits-360-3-body-problem](https://github.com/fruits-360/fruits-360-3-body-problem)
 
 ## Papers (using Fruits-360 dataset)
 
