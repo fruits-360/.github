@@ -12,7 +12,7 @@ The dataset consists of multiple repositories:
 
 - [Fruits-360 3-body-problem](https://github.com/fruits-360/fruits-360-3-body-problem) (A 3-class classification problem, where the Training and Test folders contain different (varieties of) the 3 fruits and vegetables (Apples, Cherries and Tomatoes). Currently contains 47033 pictures of Apples, Cherries and Tomatoes.)
 
-- [Fruits-360 meta](https://github.com/fruits-360/fruits-360-meta) (Attributes. Currently contains full data for 26 objects and partial data (type, defects, maturity) for 240 objects.)
+- [Fruits-360 meta](https://github.com/fruits-360/fruits-360-meta) (Attributes. Currently contains full data for 26 objects and partial data ((type, defects, maturity) for 240 objects.)
 
 - [Fruits-360 multi](https://github.com/fruits-360/fruits-360-multi) (Multiple objects in the same picture. Currently contains 150 images.)
 
