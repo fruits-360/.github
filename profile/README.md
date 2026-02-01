@@ -6,9 +6,9 @@
 
 The dataset consists of multiple repositories:
 
-- [Fruits-360 100x100](https://github.com/fruits-360/fruits-360-100x100) (Images scaled to 100x100 pixels. Currently contains 171001 pictures of 245 fruits, vegetables, nuts and seeds.)
+- [Fruits-360 100x100](https://github.com/fruits-360/fruits-360-100x100) (Images scaled to 100x100 pixels. Currently contains 173786 pictures of 250 fruits, vegetables, nuts and seeds.)
 
-- [Fruits-360 original-size](https://github.com/fruits-360/fruits-360-original-size) (Original (captured) size images. Currently contains 90607 pictures of 130 fruits, vegetables, nuts and seeds.)
+- [Fruits-360 original-size](https://github.com/fruits-360/fruits-360-original-size) (Original (captured) size images. Currently contains 93392 pictures of 135 fruits, vegetables, nuts and seeds.)
 
 - [Fruits-360 3-body-problem](https://github.com/fruits-360/fruits-360-3-body-problem) (A 3-class classification problem, where the Training and Test folders contain different (varieties of) the 3 fruits and vegetables (Apples, Cherries and Tomatoes). Currently contains 47033 pictures of Apples, Cherries and Tomatoes.)
 
