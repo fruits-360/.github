@@ -6,15 +6,15 @@
 
 The dataset consists of multiple repositories:
 
-- [Fruits-360 100x100](https://github.com/fruits-360/fruits-360-100x100) (Images scaled to 100x100 pixels. Currently contains 173786 pictures of 250 fruits, vegetables, nuts and seeds.)
+- [Fruits-360 100x100](https://github.com/fruits-360/fruits-360-100x100) (Images scaled to 100x100 pixels. Currently contains 174700 pictures of 251 fruits, vegetables, nuts and seeds.)
 
-- [Fruits-360 original-size](https://github.com/fruits-360/fruits-360-original-size) (Original (captured) size images. Currently contains 93392 pictures of 135 fruits, vegetables, nuts and seeds.)
+- [Fruits-360 original-size](https://github.com/fruits-360/fruits-360-original-size) (Original (captured) size images. Currently contains 94306 pictures of 136 fruits, vegetables, nuts and seeds.)
 
 - [Fruits-360 3-body-problem](https://github.com/fruits-360/fruits-360-3-body-problem) (A 3-class classification problem, where the Training and Test folders contain different (varieties of) the 3 fruits and vegetables (Apples, Cherries and Tomatoes). Currently contains 47033 pictures of Apples, Cherries and Tomatoes.)
 
 - [Fruits-360 meta](https://github.com/fruits-360/fruits-360-meta) (Attributes. Currently contains full data for 26 objects and partial data ((type, defects, maturity) for 250 objects.)
 
-- [Fruits-360 multi](https://github.com/fruits-360/fruits-360-multi) (Multiple objects in the same picture. Currently contains 150 images.)
+- [Fruits-360 multi](https://github.com/fruits-360/fruits-360-multi) (Multiple objects in the same picture. Currently contains 217 images.)
 
 - [Fruits-360 papers](https://github.com/fruits-360/fruits-360-papers) (Papers using Fruits-360 dataset.)
 
