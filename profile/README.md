@@ -14,7 +14,7 @@ The dataset consists of multiple repositories:
 
 - [Fruits-360 meta](https://github.com/fruits-360/fruits-360-meta) (Attributes. Currently contains full data for 26 objects and partial data ((type, defects, maturity) for 250 objects.)
 
-- [Fruits-360 multi](https://github.com/fruits-360/fruits-360-multi) (Multiple objects in the same picture. Currently contains 217 images.)
+- [Fruits-360 multi](https://github.com/fruits-360/fruits-360-multi) (Multiple objects in the same picture. Currently contains 387 images.)
 
 - [Fruits-360 papers](https://github.com/fruits-360/fruits-360-papers) (Papers using Fruits-360 dataset.)
 
