@@ -6,9 +6,9 @@
 
 The dataset consists of multiple repositories:
 
-- [Fruits-360 100x100](https://github.com/fruits-360/fruits-360-100x100) (Images scaled to 100x100 pixels. Currently contains 188346 pictures of 265 fruits, vegetables, nuts, seeds and fungi.)
+- [Fruits-360 100x100](https://github.com/fruits-360/fruits-360-100x100) (Images scaled to 100x100 pixels. Currently contains 188346 pictures of 265 fruits, vegetables, nuts, seeds and mushrooms.)
 
-- [Fruits-360 original-size](https://github.com/fruits-360/fruits-360-original-size) (Original (captured) size images. Currently contains 107952 pictures of 150 fruits, vegetables, nuts, seeds and fungi.)
+- [Fruits-360 original-size](https://github.com/fruits-360/fruits-360-original-size) (Original (captured) size images. Currently contains 107952 pictures of 150 fruits, vegetables, nuts, seeds and mushrooms.)
 
 - [Fruits-360 3-body-problem](https://github.com/fruits-360/fruits-360-3-body-problem) (A 3-class classification problem, where the Training and Test folders contain different (varieties of) the 3 fruits and vegetables (Apples, Cherries and Tomatoes). Currently contains 49236 pictures of Apples, Cherries and Tomatoes.)
 
@@ -51,6 +51,9 @@ Mihai Oltean, __Fruits-360 dataset__, 2017-.
 - __2025.03.23__. New repository with papers using Fruits-360 dataset:  [https://github.com/fruits-360/fruits-360-papers](https://github.com/fruits-360/fruits-360-papers)
 
 - __2025.04.01__. New dataset: Fruits-360, 3-body problem:  [https://github.com/fruits-360/fruits-360-3-body-problem](https://github.com/fruits-360/fruits-360-3-body-problem)
+
+- __2026.08.30__. First mushroom added.
+
 
 ## Papers (using Fruits-360 dataset)
 
